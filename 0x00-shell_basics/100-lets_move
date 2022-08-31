@@ -1,2 +1,2 @@
 #!/bin/bash
-mv [A-Z]* $PWD /tmp/u
+mv $PWD/[[:upper:]]* /tmp/u
