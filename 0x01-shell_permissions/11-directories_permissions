@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -r 111 /$PWD
+chmod -r +x /home/user1/direct
