@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 755  -d .
+chmod -r +x /home/user1/direct
